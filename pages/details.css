@@ -2,7 +2,7 @@ body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background: url('./images/w12.jpg') no-repeat center center fixed;
+    background: url('/images/w12.jpg') no-repeat center center fixed;
     background-size: cover;
     overflow-x: hidden;
     position: relative;
